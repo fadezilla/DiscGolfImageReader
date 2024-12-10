@@ -76,5 +76,5 @@ def display_all_flight_paths(start_id, end_id):
 
 if __name__ == "__main__":
     start_id = 1  # Start with disc ID 1
-    end_id = 5   # Set the range as needed (e.g., up to disc ID 50)
+    end_id = 7  # Set the range as needed (e.g., up to disc ID 50)
     display_all_flight_paths(start_id, end_id)
